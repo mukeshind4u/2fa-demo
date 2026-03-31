@@ -39,15 +39,10 @@ A simple and secure login system with Two-Factor Authentication (2FA) using OTP.
    config/database.php
 
 5. Run project:
-   http://localhost/2fa-login/auth/login.php
+   http://localhost/2fa-login/login.php
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
 
 ## 👨‍💻 Author
 
