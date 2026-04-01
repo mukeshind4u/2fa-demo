@@ -1,5 +1,5 @@
 <?php
-// login.php
+// Login page login.php
 session_start();
 $pdo = new PDO("mysql:host=localhost;dbname=auth_test", "root", "");
 $error = "";
